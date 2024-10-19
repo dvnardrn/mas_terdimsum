@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .table1{
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin-left:220px;
+    width:800px;
+    height:200px;
+    
+  }
+  .menuco{
+    display:flex;
+  }
+  .menuco img{
+    border-radius: 10px;
+  }
+  td{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .menunote{
+    padding-left:50px;
+  }
+  .menuco{
+    height:150px;
+  }
+  .table2{
+    width:420px;
+    height: 110px;
+    color:yellow;
+    background-color: black;
+    margin-left: 600px;
+    border-radius: 10px;
+  }
+  .td1{
+    padding-left: 80px;
+  }
+  .td2{
+    padding-left: 130px;
+  }
+  .td3{
+    padding-left: 130px;
+  }
+  .Remove{
+    cursor: pointer;
+  }

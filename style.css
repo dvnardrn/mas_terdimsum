@@ -1,0 +1,122 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu ul li {
+    list-style-type: none;
+    margin-right: 50px;
+  }
+  
+  .gambar_menu img {
+    margin-right: 50px;
+  
+  }
+  
+  .gambar_menu {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .gambar_menu .menu1 h2 {
+    text-align: center;
+  
+  }
+  
+  .menu {
+    margin: 65px;
+  }
+  
+  .Welcome {
+    text-align: center;
+    background-color: yellow;
+    border-radius: 22px;
+    height: 100px;
+  }
+  
+  .Welcome p {
+    font-size: 22px;
+  }
+  
+  .menu img {
+    border-radius: 20px;
+  }
+  
+  .Dimsum {
+    text-align: center;
+    border-radius: 22px;
+    font-size: 20px;
+  }
+  
+  .header {
+    background-color: aliceblue;
+    border-radius: 26px
+  }
+  
+  .testimoni {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .testimonial {
+    background-color: lightgrey;
+    border-radius: 22px;
+    width: 260px
+  }
+  
+  .testimoni {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .gambar_menu {
+    text-align: justify;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .header {
+    font-size: 30px;
+  }
+  
+  .menu h2 {
+    text-align: 50px;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    background-color:navajowhite ;
+    border-radius: 26px
+  }
+  
+  .footerbox{
+    justify-content: space-around;
+    text-align: justify;
+  }
+  
+  .footer ul li {
+    list-style-type: none;
+  }
+  .account{
+    text-decoration: none;
+    color: black;
+  }
+  .co {
+    display: flex;
+  }
+  .co p {
+    padding-left: 20px;
+  }
